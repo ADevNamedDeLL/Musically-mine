@@ -1,4 +1,4 @@
-# Music Player
+# The Musically mine Music Player
 
 A simple music player application built using PyQt5 and pygame for controlling audio playback and displaying metadata.
 
