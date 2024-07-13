@@ -35,11 +35,11 @@ A simple music player application built using PyQt5 and pygame for controlling a
    - **Toggle loop mode using the loop button.Themes:** Switch between dark and light mode using the theme button.
 
    ## Dependencies
-  - Python 3.7+
-  - PyQt5
-  - pygame
-  - mutagen
+   - Python 3.7+
+   - PyQt5
+   - pygame
+   - mutagen
 
-  ## License
-  This project is licensed under the MIT License.
+   ## License
+   This project is licensed under the MIT License.
    
