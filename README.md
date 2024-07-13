@@ -12,6 +12,14 @@ A simple music player application built using PyQt5 and pygame for controlling a
 - **Loop Functionality:** Enable looping of the currently playing song.
 - **Open Folder:** Load MP3 files from a selected folder.
 
+## Installation
+
+1. **Download the application:**
+
+https://github.com/ADevNamedDeLL/Musically-mine/releases/download/Windows/Musically-mine.exe
+
+2. **Use The application**
+
 ## Installation by using the Source Code
 
 1. **Clone the repository:**
