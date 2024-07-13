@@ -12,10 +12,34 @@ A simple music player application built using PyQt5 and pygame for controlling a
 - **Loop Functionality:** Enable looping of the currently playing song.
 - **Open Folder:** Load MP3 files from a selected folder.
 
-## Installation
+## Installation by using the Source Code
 
 1. **Clone the repository:**
 
    ```bash
-   git clone [<repository-url>](https://github.com/ADevNamedDeLL/Musically-mine.git)
+   git clone https://github.com/ADevNamedDeLL/Musically-mine.git
+   ```
+2. **Install and use the Music Player:**
+
+   ```bash
    cd Musically mine
+   pip install -r requirements.txt
+   python Musically_mine_SourceCode.py
+   ```
+   ## Usage
+   - **Open Folder:** Click the "Open Folder" button to select a folder containing MP3 files.
+   - **Select and Play:** Double-click on a song in the list to play it.
+   - **Controls:** Use the play, pause, and stop buttons to control playback.
+   - **Adjust volume using the volume slider.**
+   - **Seek through the song using the progress slider**.
+   - **Toggle loop mode using the loop button.Themes:** Switch between dark and light mode using the theme button.
+
+     ##Dependencies
+     - Python 3.7+
+     - PyQt5
+     - pygame
+     - mutagen
+
+     ##License
+     This project is licensed under the MIT License.
+   
