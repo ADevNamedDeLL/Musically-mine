@@ -17,5 +17,5 @@ A simple music player application built using PyQt5 and pygame for controlling a
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/ADevNamedDeLL/Musically-mine.git)
    cd Musically mine
