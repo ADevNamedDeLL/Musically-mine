@@ -1,5 +1,7 @@
 # The Musically mine Music Player
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 A simple music player application built using PyQt5 and pygame for controlling audio playback and displaying metadata.
 
 ## Features
